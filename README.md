@@ -1,1 +1,1 @@
-# testrepo
+# mystrepo
